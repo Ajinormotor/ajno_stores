@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+<h1 className="font-ibm font-semibold text-lg">Project Name:</h1> Ajino-Stores
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h1 className="font-ibm font-semibold text-lg">Description:</h1>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is a responsive ecommerce store
+ The landing page features smooth animations, semantic HTML, and a mobile-friendly layout to deliver an intuitive user experience.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<h1 className="font-ibm font-semibold text-lg">Features:</h1>
 
-## Learn More
+- Fully responsive layout for desktop, tablet, and mobile devices.
+- Smooth transitions for  hover states and button interactions.
+- Modular React components for maintainable and scalable code.
+- React Helmet Libary for accessibility and SEO optimization.
+- React Slick Libary for curosel
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<h1 className="font-ibm font-semibold text-lg">Setup Instructions:</h1>
 
-## Deploy on Vercel
+Clone the repository:
+-git clone https://github.com/yourusername/medical-landing-page.git  
+-cd medical-landing-page  
+Install dependencies:
+- npm install  
+Start the development server:
+- npm run dev  
+Open http://localhost:3000 in your browser to view the project.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+<h1 className="font-ibm font-semibold text-lg">Technology Stack:</h1>
+
+- React.js: Component-based framework for building the UI.
+- CSS/SCSS/TAILWINDCSS: Styling for layout and animations.
+- React Router: For seamless navigation (if applicable).
+- Responsive Design: Achieved using CSS Grid and Flexbox.
+- FRAMER-MOTION : For smooth animation of components.
+
+
+
+
+
+
+<h1 className="font-ibm font-semibold text-lg">Contact Information:</h1>
+
+- For questions or feedback, feel free to reach out via email at  teiteiwisdom@gmail.com.
